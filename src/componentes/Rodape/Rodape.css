@@ -1,0 +1,23 @@
+.rodape {
+    background-color: #5068F1;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.rodape .imagens-redes a{
+    margin-right: 10px;
+
+}
+
+
+.desenvol {
+    color: white;
+    text-decoration: none;
+}
+
+.desenvol:hover {
+    color: rgb(216, 216, 216);
+}
